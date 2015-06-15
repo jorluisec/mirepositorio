@@ -8,6 +8,7 @@ public class Principal {
 	public static void main(String[] args) {
 		System.out.println("iniciando");
 		System.out.println("Paso A");
+		System.out.println("Paso B");
 		System.out.println("Finalizando...");
 	}
 
