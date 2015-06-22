@@ -12,6 +12,7 @@ public class Principal {
 		System.out.println("Paso 3");
 		System.out.println("Paso 4");
 		System.out.println("Paso 5");
+		System.out.println("Paso 6");
 		System.out.println("Finalizando...");
 	}
 
